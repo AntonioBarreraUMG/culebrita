@@ -1,0 +1,15 @@
+C:\Users\jeant\Documents\Repositorios\culebrita\culebrita\bin\Release\net6.0\culebrita.exe
+C:\Users\jeant\Documents\Repositorios\culebrita\culebrita\bin\Release\net6.0\culebrita.deps.json
+C:\Users\jeant\Documents\Repositorios\culebrita\culebrita\bin\Release\net6.0\culebrita.runtimeconfig.json
+C:\Users\jeant\Documents\Repositorios\culebrita\culebrita\bin\Release\net6.0\culebrita.dll
+C:\Users\jeant\Documents\Repositorios\culebrita\culebrita\bin\Release\net6.0\culebrita.pdb
+C:\Users\jeant\Documents\Repositorios\culebrita\culebrita\obj\Release\net6.0\culebrita.csproj.AssemblyReference.cache
+C:\Users\jeant\Documents\Repositorios\culebrita\culebrita\obj\Release\net6.0\culebrita.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jeant\Documents\Repositorios\culebrita\culebrita\obj\Release\net6.0\culebrita.AssemblyInfoInputs.cache
+C:\Users\jeant\Documents\Repositorios\culebrita\culebrita\obj\Release\net6.0\culebrita.AssemblyInfo.cs
+C:\Users\jeant\Documents\Repositorios\culebrita\culebrita\obj\Release\net6.0\culebrita.csproj.CoreCompileInputs.cache
+C:\Users\jeant\Documents\Repositorios\culebrita\culebrita\obj\Release\net6.0\culebrita.dll
+C:\Users\jeant\Documents\Repositorios\culebrita\culebrita\obj\Release\net6.0\refint\culebrita.dll
+C:\Users\jeant\Documents\Repositorios\culebrita\culebrita\obj\Release\net6.0\culebrita.pdb
+C:\Users\jeant\Documents\Repositorios\culebrita\culebrita\obj\Release\net6.0\culebrita.genruntimeconfig.cache
+C:\Users\jeant\Documents\Repositorios\culebrita\culebrita\obj\Release\net6.0\ref\culebrita.dll
